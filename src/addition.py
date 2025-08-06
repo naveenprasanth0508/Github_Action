@@ -1,4 +1,4 @@
-#Addition Python
+#Addition
 def add(a, b):
     return a + b
 
