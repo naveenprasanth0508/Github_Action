@@ -1,4 +1,5 @@
 # app.py
+# This is a test change for GitHub Actions
 def add(a, b):
     return a + b
 
