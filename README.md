@@ -1,3 +1,5 @@
+[![My First GitHub Actions](https://github.com/naveenprasanth0508/Github_Action/actions/workflows/first-actions.yml/badge.svg)](https://github.com/naveenprasanth0508/Github_Action/actions/workflows/first-actions.yml)
+
 # GitHub-Actions
 Repository to kick start your journey with GitHub Actions
 
